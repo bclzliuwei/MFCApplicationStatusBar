@@ -131,6 +131,7 @@ int CMFCApplicationStatusBarApp::ExitInstance()
 	//TODO: handle additional resources you may have added
 	AfxOleTerm(FALSE);
 
+
 	return CWinApp::ExitInstance();
 }
 
